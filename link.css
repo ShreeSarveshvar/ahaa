@@ -69,3 +69,74 @@ p{
     height: 80px;
     width: 80px;
 }
+
+
+
+@media screen and (max-width: 450px) {
+    .section{
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        padding: 0%;
+    }
+
+    h1{
+        font-size: 18px;
+        width: 60%;
+        font-style: bold;
+        margin: 0px;
+        
+    
+    }
+
+    p{
+        font-size: 13px;
+       text-align: center;
+    }
+    
+
+    .poster{
+        margin-top: 10px;
+        height: 200px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    
+    .box1{
+        width: 80%;
+        height: auto;
+        margin-top: -20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .button1{
+        background-color: black;
+        color: aliceblue;
+        width: 108px;
+        height: 36px;
+        border-radius: 8px;
+     
+    }
+    .box2{
+        margin-top: 50px;
+        width: 250px;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 40px;
+        padding: 20px;
+    
+    }
+    
+    .icon{
+        height: 50px;
+        width: 50px;
+    }
+}  
