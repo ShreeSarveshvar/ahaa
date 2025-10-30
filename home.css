@@ -478,7 +478,7 @@ Generic layout (demo looks)
   height: 400px;
   width: 100%;
   background-size: cover;
-  background-image: url("./images/bottomimg.jpg");
+background-image: url("https://ShreeSarveshvar.github.io/ahaa/bottomimg.jpg");
   display: flex;
   flex-direction:column;
   align-items:center;
@@ -512,4 +512,5 @@ Generic layout (demo looks)
 .icon2{
   height: 40px;
   width: 40px; 
+
 }
