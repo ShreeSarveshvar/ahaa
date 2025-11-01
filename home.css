@@ -506,7 +506,7 @@ background-image: url("https://ShreeSarveshvar.github.io/ahaa/bottomimg.jpg");
  display: flex;
  font-size: 1.2rem;
  align-items:center;
- justify-content: center;
+ justify-content: bottom;
 }
 
 .icon2{
@@ -514,3 +514,4 @@ background-image: url("https://ShreeSarveshvar.github.io/ahaa/bottomimg.jpg");
   width: 40px; 
 
 }
+
